@@ -1,0 +1,128 @@
+{
+  "version": "1.0.0",
+  "jurisdictions": [
+    {
+      "country_code": "FR", "country_name": "France", "flag": "🇫🇷",
+      "languages": ["fr", "en"],
+      "equality_body": {
+        "name": "Défenseur des Droits",
+        "address": "7 rue Saint-Florentin, 75409 Paris Cedex 08",
+        "phone": "+33 9 69 39 00 00",
+        "website": "https://www.defenseurdesdroits.fr",
+        "online_form": "https://formulaire.defenseurdesdroits.fr",
+        "email": "contact@defenseurdesdroits.fr"
+      },
+      "filing_deadlines": { "civil_claim_days": 1825, "administrative_days": 60, "criminal_days": 3650, "notes": "5 years for civil claims from the date of the discriminatory act" },
+      "national_laws": [
+        { "name": "Loi du 16 novembre 2001", "description": "Transposition of EU Race Equality Directive", "articles": ["L1132-1","L1134-1"] },
+        { "name": "Code pénal Art.225-1", "description": "Criminal prohibition on discrimination", "articles": ["225-1","225-2"] }
+      ],
+      "eu_directives_applicable": ["2000/43/CE","2000/78/CE","2006/54/CE","2004/113/CE"],
+      "letter_salutation": "Madame, Monsieur,",
+      "letter_closing": "Veuillez agréer, Madame, Monsieur, l'expression de mes salutations distinguées.",
+      "currency": "EUR", "complaint_fee": 0
+    },
+    {
+      "country_code": "DE", "country_name": "Germany", "flag": "🇩🇪",
+      "languages": ["de", "en"],
+      "equality_body": {
+        "name": "Antidiskriminierungsstelle des Bundes",
+        "address": "Karl-Marx-Allee 31, 10178 Berlin",
+        "phone": "+49 30 18555-1855",
+        "website": "https://www.antidiskriminierungsstelle.de",
+        "online_form": "https://www.antidiskriminierungsstelle.de/DE/BeraterInnen/beratung.html",
+        "email": "beratung@ads.bund.de"
+      },
+      "filing_deadlines": { "civil_claim_days": 60, "administrative_days": 60, "criminal_days": 1095, "notes": "2 months from knowledge of discrimination under AGG §21" },
+      "national_laws": [
+        { "name": "Allgemeines Gleichbehandlungsgesetz (AGG)", "description": "General Equal Treatment Act", "articles": ["§1","§3","§13","§21","§22"] }
+      ],
+      "eu_directives_applicable": ["2000/43/EG","2000/78/EG","2006/54/EG"],
+      "letter_salutation": "Sehr geehrte Damen und Herren,",
+      "letter_closing": "Mit freundlichen Grüßen",
+      "currency": "EUR", "complaint_fee": 0
+    },
+    {
+      "country_code": "PL", "country_name": "Poland", "flag": "🇵🇱",
+      "languages": ["pl", "en"],
+      "equality_body": {
+        "name": "Rzecznik Praw Obywatelskich",
+        "address": "Al. Solidarności 77, 00-090 Warszawa",
+        "phone": "+48 22 551 77 00",
+        "website": "https://www.rpo.gov.pl",
+        "online_form": "https://www.rpo.gov.pl/pl/content/skarga-do-rpo",
+        "email": "biurorzecznika@brpo.gov.pl"
+      },
+      "filing_deadlines": { "civil_claim_days": 1095, "administrative_days": 30, "criminal_days": 1095, "notes": "3 years for civil claims under Polish Civil Code" },
+      "national_laws": [
+        { "name": "Ustawa o równym traktowaniu (2010)", "description": "Equal Treatment Act implementing EU directives", "articles": ["Art.1","Art.3","Art.13"] },
+        { "name": "Kodeks pracy Art.18(3a)", "description": "Labour Code equal treatment at work", "articles": ["Art.18(3a)","Art.18(3b)"] }
+      ],
+      "eu_directives_applicable": ["2000/43/WE","2000/78/WE","2006/54/WE"],
+      "letter_salutation": "Szanowni Państwo,",
+      "letter_closing": "Z poważaniem,",
+      "currency": "PLN", "complaint_fee": 0
+    },
+    {
+      "country_code": "ES", "country_name": "Spain", "flag": "🇪🇸",
+      "languages": ["es", "en"],
+      "equality_body": {
+        "name": "Consejo para la Eliminación de la Discriminación Racial o Étnica",
+        "address": "C/ Alcalá, 36-38, 28014 Madrid",
+        "phone": "+34 91 363 70 00",
+        "website": "https://igualdad.gob.es",
+        "online_form": "https://igualdad.gob.es/consejo-discriminacion-racial/contacto",
+        "email": "consejo.discriminacion.racial@igualdad.gob.es"
+      },
+      "filing_deadlines": { "civil_claim_days": 365, "administrative_days": 30, "criminal_days": 1095, "notes": "1 year for civil claims; 30 days for administrative appeals" },
+      "national_laws": [
+        { "name": "Ley Orgánica 3/2007", "description": "Organic Law for effective equality of women and men", "articles": ["Art.6","Art.7","Art.10"] },
+        { "name": "Real Decreto Legislativo 2/2015", "description": "Workers' Statute — equal treatment at work", "articles": ["Art.4.2c","Art.17"] }
+      ],
+      "eu_directives_applicable": ["2000/43/CE","2000/78/CE","2006/54/CE"],
+      "letter_salutation": "Estimados señores y señoras:",
+      "letter_closing": "Atentamente,",
+      "currency": "EUR", "complaint_fee": 0
+    },
+    {
+      "country_code": "IT", "country_name": "Italy", "flag": "🇮🇹",
+      "languages": ["it", "en"],
+      "equality_body": {
+        "name": "UNAR — Ufficio Nazionale Antidiscriminazioni Razziali",
+        "address": "Via Veneto 56, 00187 Roma",
+        "phone": "+39 06 4674 2160",
+        "website": "https://www.unar.it",
+        "online_form": "https://www.unar.it/segnalazione",
+        "email": "unar@governo.it"
+      },
+      "filing_deadlines": { "civil_claim_days": 3650, "administrative_days": 60, "criminal_days": 1825, "notes": "10 years for civil claims; UNAR has no strict time limit" },
+      "national_laws": [
+        { "name": "Decreto Legislativo 215/2003", "description": "Transposition of Race Equality Directive", "articles": ["Art.2","Art.4","Art.7"] }
+      ],
+      "eu_directives_applicable": ["2000/43/CE","2000/78/CE","2006/54/CE"],
+      "letter_salutation": "Gentili Signore e Signori,",
+      "letter_closing": "Distinti saluti,",
+      "currency": "EUR", "complaint_fee": 0
+    },
+    {
+      "country_code": "NL", "country_name": "Netherlands", "flag": "🇳🇱",
+      "languages": ["nl", "en"],
+      "equality_body": {
+        "name": "College voor de Rechten van de Mens",
+        "address": "Kleinesingel 1-3, 3572 CG Utrecht",
+        "phone": "+31 30 888 3888",
+        "website": "https://www.mensenrechten.nl",
+        "online_form": "https://www.mensenrechten.nl/klacht-indienen",
+        "email": "info@mensenrechten.nl"
+      },
+      "filing_deadlines": { "civil_claim_days": 1095, "administrative_days": 42, "criminal_days": 1095, "notes": "No strict time limit for College; 3 years for civil courts" },
+      "national_laws": [
+        { "name": "Algemene wet gelijke behandeling (AWGB)", "description": "General Equal Treatment Act", "articles": ["Art.1","Art.5","Art.10"] }
+      ],
+      "eu_directives_applicable": ["2000/43/EG","2000/78/EG","2006/54/EG"],
+      "letter_salutation": "Geachte heer/mevrouw,",
+      "letter_closing": "Met vriendelijke groet,",
+      "currency": "EUR", "complaint_fee": 0
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+[
+  {
+    "id": "dir_2000_43_art1", "directive": "2000/43/EC",
+    "title": "Race Equality Directive — Art.1 Purpose",
+    "text": "The purpose of this Directive is to lay down a framework for combating discrimination based on racial or ethnic origin, with a view to putting into effect in the Member States the principle of equal treatment.",
+    "article": "Article 1", "characteristic": "race", "domain": "all",
+    "keywords": ["race","ethnic origin","equal treatment","discrimination","framework"]
+  },
+  {
+    "id": "dir_2000_43_art2", "directive": "2000/43/EC",
+    "title": "Race Equality Directive — Art.2 Direct & Indirect Discrimination",
+    "text": "Direct discrimination: one person treated less favourably than another in a comparable situation on grounds of racial or ethnic origin. Indirect discrimination: an apparently neutral provision, criterion or practice would put persons of a racial or ethnic origin at a particular disadvantage unless objectively justified by a legitimate aim. Harassment: unwanted conduct related to racial or ethnic origin violating dignity or creating an intimidating, hostile, degrading, humiliating or offensive environment.",
+    "article": "Article 2", "characteristic": "race", "domain": "all",
+    "keywords": ["direct discrimination","indirect discrimination","harassment","neutral provision","particular disadvantage","racial origin","less favourable treatment","comparable situation"]
+  },
+  {
+    "id": "dir_2000_43_art3", "directive": "2000/43/EC",
+    "title": "Race Equality Directive — Art.3 Scope",
+    "text": "Applies to all persons in public and private sectors regarding: access to employment, self-employment, promotion; vocational guidance and training; employment and working conditions including dismissals and pay; membership of organisations; social protection including social security and healthcare; social advantages; education; access to goods and services including housing.",
+    "article": "Article 3", "characteristic": "race", "domain": "employment,education,services,housing,healthcare",
+    "keywords": ["employment","education","services","housing","healthcare","social protection","goods and services","vocational training","scope"]
+  },
+  {
+    "id": "dir_2000_43_art8", "directive": "2000/43/EC",
+    "title": "Race Equality Directive — Art.8 Burden of Proof",
+    "text": "When persons who consider themselves wronged establish facts from which it may be presumed there has been direct or indirect discrimination, it shall be for the respondent to prove there has been no breach of the principle of equal treatment. The burden of proof shifts once a prima facie case is established.",
+    "article": "Article 8", "characteristic": "race", "domain": "all",
+    "keywords": ["burden of proof","respondent","presumption","prima facie","evidence","court","plaintiff","establish facts","shift"]
+  },
+  {
+    "id": "dir_2000_78_art1", "directive": "2000/78/EC",
+    "title": "Employment Equality Directive — Art.1 Purpose",
+    "text": "Lays down a general framework for combating discrimination on grounds of religion or belief, disability, age or sexual orientation as regards employment and occupation.",
+    "article": "Article 1", "characteristic": "religion,disability,age,sexual_orientation", "domain": "employment",
+    "keywords": ["religion","belief","disability","age","sexual orientation","employment","occupation","equal treatment"]
+  },
+  {
+    "id": "dir_2000_78_art2", "directive": "2000/78/EC",
+    "title": "Employment Equality Directive — Art.2 Discrimination Defined",
+    "text": "Direct discrimination: one person treated less favourably than another in a comparable situation on any of the grounds (religion, disability, age, sexual orientation). Indirect discrimination: apparently neutral provision, criterion or practice would put persons with a particular characteristic at a particular disadvantage unless objectively justified. Harassment is a form of discrimination when it creates an intimidating, hostile, degrading, humiliating or offensive environment.",
+    "article": "Article 2", "characteristic": "religion,disability,age,sexual_orientation", "domain": "employment",
+    "keywords": ["direct discrimination","indirect discrimination","harassment","reasonable accommodation","disability","age","religion","sexual orientation"]
+  },
+  {
+    "id": "dir_2000_78_art5", "directive": "2000/78/EC",
+    "title": "Employment Equality Directive — Art.5 Reasonable Accommodation",
+    "text": "Employers shall take appropriate measures to enable a person with a disability to have access to, participate in, or advance in employment, or to undergo training, unless such measures would impose a disproportionate burden on the employer. Failure to provide reasonable accommodation constitutes discrimination.",
+    "article": "Article 5", "characteristic": "disability", "domain": "employment",
+    "keywords": ["reasonable accommodation","disability","employer obligation","disproportionate burden","access to employment","training","participation","adjustment"]
+  },
+  {
+    "id": "dir_2006_54_art1", "directive": "2006/54/EC",
+    "title": "Gender Recast Directive — Art.1 Equal Opportunities",
+    "text": "Ensures implementation of the principle of equal opportunities and equal treatment of men and women in matters of employment and occupation, including access to employment, promotion, vocational training, working conditions including pay, and occupational social security schemes.",
+    "article": "Article 1", "characteristic": "gender", "domain": "employment",
+    "keywords": ["gender","sex","equal opportunities","equal pay","employment","promotion","vocational training","working conditions","maternity"]
+  },
+  {
+    "id": "dir_2006_54_art2", "directive": "2006/54/EC",
+    "title": "Gender Recast Directive — Art.2 Sexual Harassment",
+    "text": "Sexual harassment: any form of unwanted verbal, non-verbal or physical conduct of a sexual nature with the purpose or effect of violating the dignity of a person, in particular when creating an intimidating, hostile, degrading, humiliating or offensive environment. Gender harassment: unwanted conduct related to the sex of a person with the same effect.",
+    "article": "Article 2", "characteristic": "gender", "domain": "employment",
+    "keywords": ["sexual harassment","gender harassment","sex discrimination","equal pay","pregnancy","maternity","hostile environment","dignity"]
+  },
+  {
+    "id": "dir_2004_113_art1", "directive": "2004/113/EC",
+    "title": "Gender Goods & Services Directive — Art.1",
+    "text": "Lays down a framework for combating discrimination based on sex in access to goods and services and their supply, putting into effect the principle of equal treatment between men and women. Covers insurance, banking, transport, and other services available to the public.",
+    "article": "Article 1", "characteristic": "gender", "domain": "services,goods",
+    "keywords": ["goods","services","gender","sex","equal treatment","access to services","insurance","banking","public"]
+  },
+  {
+    "id": "cfr_art21", "directive": "EU Charter of Fundamental Rights",
+    "title": "Charter Art.21 — Non-Discrimination",
+    "text": "Any discrimination based on any ground such as sex, race, colour, ethnic or social origin, genetic features, language, religion or belief, political or any other opinion, membership of a national minority, property, birth, disability, age or sexual orientation shall be prohibited. Any discrimination on grounds of nationality shall be prohibited within the scope of the Treaties.",
+    "article": "Article 21", "characteristic": "all", "domain": "all",
+    "keywords": ["non-discrimination","charter","fundamental rights","sex","race","colour","ethnic origin","language","religion","disability","age","sexual orientation","nationality"]
+  },
+  {
+    "id": "echr_art14", "directive": "European Convention on Human Rights",
+    "title": "ECHR Art.14 — Prohibition of Discrimination",
+    "text": "The enjoyment of the rights and freedoms set forth in this Convention shall be secured without discrimination on any ground such as sex, race, colour, language, religion, political or other opinion, national or social origin, association with a national minority, property, birth or other status.",
+    "article": "Article 14", "characteristic": "all", "domain": "all",
+    "keywords": ["ECHR","human rights","prohibition","discrimination","race","sex","language","religion","national origin","other status"]
+  },
+  {
+    "id": "case_feryn", "directive": "CJEU Case Law",
+    "title": "C-54/07 Feryn — No Identifiable Complainant Needed",
+    "text": "A public statement by an employer that he would not hire persons of a particular ethnic origin constitutes direct discrimination in access to employment under Directive 2000/43/EC, even without an identifiable complainant. Discrimination does not require an individual victim to be identified.",
+    "article": "C-54/07", "characteristic": "race", "domain": "employment",
+    "keywords": ["no identifiable complainant","public statement","employer","Feryn","direct discrimination","ethnic origin","hiring","CJEU precedent"]
+  },
+  {
+    "id": "case_coleman", "directive": "CJEU Case Law",
+    "title": "C-303/06 Coleman — Discrimination by Association",
+    "text": "Directive 2000/78/EC prohibits direct discrimination and harassment on grounds of disability where experienced by an employee who is not themselves disabled but is the primary carer of a disabled child. Discrimination by association is prohibited.",
+    "article": "C-303/06", "characteristic": "disability", "domain": "employment",
+    "keywords": ["discrimination by association","carer","disability","Coleman","direct discrimination","harassment","family member","CJEU"]
+  },
+  {
+    "id": "case_chez", "directive": "CJEU Case Law",
+    "title": "C-83/14 CHEZ — Collective & Structural Discrimination",
+    "text": "Placing electricity meters at inaccessible heights in districts predominantly inhabited by Roma constitutes indirect discrimination under Directive 2000/43/EC. A person who does not belong to the affected ethnic group but suffers the same disadvantage may also rely on the Directive's protections.",
+    "article": "C-83/14", "characteristic": "race", "domain": "services",
+    "keywords": ["Roma","ethnic minority","collective discrimination","indirect discrimination","structural","CHEZ","CJEU","infrastructure","service provision"]
+  },
+  {
+    "id": "dir_victimisation", "directive": "2000/43/EC",
+    "title": "Victimisation — Art.9 Protection from Retaliation",
+    "text": "Member States shall protect individuals from adverse treatment or adverse consequence as a reaction to a complaint or proceedings aimed at enforcing compliance with the principle of equal treatment. Victimisation occurs when a person is subjected to detriment because they made or supported a discrimination complaint.",
+    "article": "Article 9", "characteristic": "all", "domain": "all",
+    "keywords": ["victimisation","retaliation","adverse treatment","complaint","proceedings","protection","whistleblower","detriment","punished","fired after complaint"]
+  },
+  {
+    "id": "dir_age_justification", "directive": "2000/78/EC",
+    "title": "Employment Equality Directive — Art.6 Age Justification",
+    "text": "Differences of treatment on grounds of age shall not constitute discrimination if, within the context of national law, they are objectively and reasonably justified by a legitimate aim, including legitimate employment policy, labour market and vocational training objectives, and if the means of achieving that aim are appropriate and necessary. Such differences may include setting special conditions on access to employment for young people and older workers.",
+    "article": "Article 6", "characteristic": "age", "domain": "employment",
+    "keywords": ["age","justification","legitimate aim","proportionate","young workers","older workers","retirement","mandatory retirement","employment policy"]
+  },
+  {
+    "id": "dir_pregnancy", "directive": "92/85/EEC",
+    "title": "Pregnant Workers Directive — Protection from Dismissal",
+    "text": "Member States shall take the necessary measures to prohibit the dismissal of pregnant workers, workers who have recently given birth or who are breastfeeding during the period from the beginning of their pregnancy to the end of the maternity leave. Dismissal on grounds of pregnancy constitutes direct sex discrimination.",
+    "article": "Article 10", "characteristic": "gender", "domain": "employment",
+    "keywords": ["pregnancy","maternity","dismissal","breastfeeding","protection","pregnant worker","maternity leave","sex discrimination","new mother"]
+  },
+  {
+    "id": "dir_disability_definition", "directive": "CJEU C-363/12",
+    "title": "Z v A Government Department — Broad Disability Definition",
+    "text": "The concept of disability must be understood as referring to a limitation which results in particular from physical, mental or psychological impairments which in interaction with various barriers may hinder the full and effective participation of the person concerned in professional life on an equal basis with other workers. This includes long-term conditions.",
+    "article": "C-363/12", "characteristic": "disability", "domain": "all",
+    "keywords": ["disability definition","limitation","physical impairment","mental impairment","psychological","long-term","participation","professional life","barriers"]
+  },
+  {
+    "id": "dir_religion_hijab", "directive": "CJEU C-157/15",
+    "title": "Achbita — Religious Symbol Bans at Work",
+    "text": "A prohibition on wearing any visible sign of political, philosophical or religious belief does not constitute direct discrimination on grounds of religion or belief. However, such prohibition may constitute indirect discrimination if the apparently neutral obligation results in particular disadvantage for persons adhering to a particular religion, unless justified by a legitimate aim such as customer neutrality.",
+    "article": "C-157/15", "characteristic": "religion", "domain": "employment",
+    "keywords": ["religion","hijab","veil","religious symbol","ban","workplace","indirect discrimination","neutrality policy","Achbita","customer neutrality"]
+  }
+]
