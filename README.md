@@ -50,3 +50,6 @@ flutter pub get
 flutter run
 ```
 
+<img width="1080" height="2340" alt="image" src="https://github.com/user-attachments/assets/5281e215-73e8-477c-879a-8e88d994faf0" />
+
+
