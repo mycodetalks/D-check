@@ -4,15 +4,6 @@ A professional mobile application built with Flutter designed to guide users thr
 
 ---
 
-## 📱 App Screenshots
-
-
-| Triage Flow | Legal Chat Support | Case Evidence |
-| :-: | :-: | :-: |
-| <img src="assets/triage_screen.png" width="240"> | <img src="assets/chat_screen.png" width="240"> | <img src="assets/evidence_screen.png" width="240"> |
-
----
-
 ## ✨ Features
 
 - **Local RAG Support Engine**: Fast local search fallback covering legal foundations and documentation workflows.
@@ -49,7 +40,24 @@ HUGGING_FACE_TOKEN=your_token_here
 flutter pub get
 flutter run
 ```
+--=
+## 📱 App Screenshots 
 
 <img width="1080" height="2340" alt="image" src="https://github.com/user-attachments/assets/5281e215-73e8-477c-879a-8e88d994faf0" />
+
+<img width="1080" height="2340" alt="image" src="https://github.com/user-attachments/assets/36f517f8-98e5-482b-9502-a9eb355c89f8" />
+
+<img width="1080" height="2340" alt="image" src="https://github.com/user-attachments/assets/2ceca1cc-bd45-4770-adad-2dfcff75ce17" />
+
+<img width="1080" height="2340" alt="image" src="https://github.com/user-attachments/assets/4ca33b96-af69-4fe0-818f-fe26085d24ad" />
+
+<img width="1080" height="2340" alt="image" src="https://github.com/user-attachments/assets/54e37836-32ab-4925-a449-263f543bb692" />
+
+<img width="1080" height="2340" alt="image" src="https://github.com/user-attachments/assets/70d70886-6d22-414d-8253-e908a9aacf75" />
+
+
+
+
+
 
 
