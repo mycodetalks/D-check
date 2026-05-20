@@ -57,6 +57,19 @@ flutter run
 
 
 
+## 📱 App Screenshots
+
+<p align="center">
+  <img src="https://github.com" width="240" style="margin: 10px;" alt="Triage Flow" />
+  <img src="https://github.com" width="240" style="margin: 10px;" alt="Chat Assistant" />
+  <img src="https://github.com" width="240" style="margin: 10px;" alt="Case Evidence" />
+</p>
+
+<p align="center">
+  <img src="https://github.com" width="240" style="margin: 10px;" alt="Rights Screen" />
+  <img src="https://github.com" width="240" style="margin: 10px;" alt="Complaint Screen" />
+  <img src="https://github.com" width="240" style="margin: 10px;" alt="Complaint History" />
+</p>
 
 
 
