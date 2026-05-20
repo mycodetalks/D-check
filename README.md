@@ -55,7 +55,6 @@ flutter run
 
 <img width="1080" height="2340" alt="image" src="https://github.com/user-attachments/assets/70d70886-6d22-414d-8253-e908a9aacf75" />
 
-https://scontent.fgyd20-2.fna.fbcdn.net/v/t1.15752-9/671864719_1648524039808378_3286485049998082381_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=0024fc&_nc_ohc=ZqR0Uiemn8MQ7kNvwGajG6I&_nc_oc=Adp9D815Dfu8McifkLNIpTVFd2ovmcIXerDnX41z4ln4-gJejyjYlSspfnNGomfnfBQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fgyd20-2.fna&_nc_ss=7a22e&oh=03_Q7cD5QGxYaRjGoMNwJyKG9mwVyL8PjCvwSAFEuEGXKwCRQbj1Q&oe=6A3523BC 
 
 
 
